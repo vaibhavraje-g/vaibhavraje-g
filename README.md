@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vaibhavraje Gaikwad</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Fitness Assistant**
-
-- 🌱 I’m currently learning **Angular, React, Redux,**
-
-- 👯 I’m looking to collaborate on **Generative Ai related Projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vaibhavraje-g?tab=repositories](https://github.com/vaibhavraje-g?tab=repositories)
 
 - 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
-- 💬 Ask me about **Angular, React, NodeJs,ExpressJs MongoDb,**
+- 💬 Ask me about **Angular, NodeJs,ExpressJs MongoDb,**
 
 - 📫 How to reach me **vaibhavrajegaikwad.gv@gmail.com**
 
