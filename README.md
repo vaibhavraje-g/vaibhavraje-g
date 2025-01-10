@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **vaibhavrajegaikwad.gv@gmail.com**
 
-- 📄 Know about my experiences [NA](NA)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
