@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
-- 💬 Ask me about **Angular, NodeJs,ExpressJs MongoDb,**
+- 💬 Ask me about **Angular, NodeJs,ExpressJs MongoDB, FastAPI**
 
 - 📫 How to reach me **vaibhavrajegaikwad.gv@gmail.com**
 
